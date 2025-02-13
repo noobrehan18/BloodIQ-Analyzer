@@ -14,7 +14,7 @@ const HeroSection = () => {
     <section className="bg-gray-900 text-center py-20 text-white">
       <h1 className="text-5xl font-extrabold mb-6">
         Transform Medical Reports with <br />
-        <span className="text-blue-500">AI Intelligence</span>
+        <span className="text-blue-500">Artificial Intelligence </span>
       </h1>
       <p className="text-lg text-gray-400 max-w-2xl mx-auto mb-10">
         Instantly analyze and extract data from medical reports with advanced AI. 
