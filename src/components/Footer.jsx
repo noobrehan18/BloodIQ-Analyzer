@@ -70,7 +70,7 @@ export default function Footer() {
             </a>
           </div>
           <p className="text-center text-gray-400">
-            &copy; {new Date().getFullYear()} MediParser Pro. All rights reserved.
+            &copy; {new Date().getFullYear()} . All rights reserved.
           </p>
         </div>
       </div>
